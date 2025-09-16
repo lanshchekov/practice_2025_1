@@ -69,3 +69,5 @@
 Документация по технологии блокчейн: [перейти](technology.md)
 
 Документация по проекту на основе блокчейн: [перейти](project_guide.md)
+
+Видео-презентация проекта: [перейти](https://drive.google.com/file/d/1lZ9Z_hgRFdXMvrL1P1d3HQBvOYbdY0Xg/view?usp=sharing)
